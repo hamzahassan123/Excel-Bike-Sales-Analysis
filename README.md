@@ -5,15 +5,15 @@ An Excel project demonstrating data cleaning, analysis, and visualization with p
 
 
 This project showcases skills in Excel, focusing on:  
-- **Data Cleaning**: Removing duplicates, handling missing values, and formatting.
+1. **Data Cleaning**: Removing duplicates, handling missing values, and formatting.
 
 - ![image](https://github.com/user-attachments/assets/b5093580-37a3-4ac5-b44a-178a826b337f)
 
-- **Data Analysis**: Summarizing data using formulas, pivot tables, and charts.
+2. **Data Analysis**: Summarizing data using formulas, pivot tables, and charts.
 
 - ![image](https://github.com/user-attachments/assets/db4f416f-6783-4628-ac85-3bb1481017c7)
 
-- **Visualization**: Creating an interactive dashboard to highlight trends and insights.  
+3. **Visualization**: Creating an interactive dashboard to highlight trends and insights.  
 
 ## Features  
 1. **Interactive Dashboard**:  
