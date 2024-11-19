@@ -1,5 +1,6 @@
 # Excel-Bike-Sales-Analysis
 An Excel project demonstrating data cleaning, analysis, and visualization with pivot tables, charts, and an interactive dashboard.
+
 ![image](https://github.com/user-attachments/assets/4a832a68-3c00-4a97-9256-995b8633e579)
 
 
